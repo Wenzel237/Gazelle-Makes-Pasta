@@ -1,0 +1,6 @@
+body { text-align: center; font-family: Arial, sans-serif; }
+#game-container { position: relative; }
+#gazelle { height: 20vh; } #gazelle:hover {cursor: pointer;}
+#sleep-bar-container { width: 200px; height: 20px; border: 2px solid black; margin: auto; position: relative; }
+#sleep-bar { height: 100%; width: 0%; background: red; transition: width 0.3s; }
+#pasta { height: 40vh; transition: filter 0.5s; }
