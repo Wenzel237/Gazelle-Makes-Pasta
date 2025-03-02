@@ -107,7 +107,6 @@ function wakeUp() {
         updateSleepBar();
         updateGazelleImage();
         clearTimeout(burnTimer); // Reset burn timer when gazelle wakes up
-        document.getElementById("gazelleStatus").textContent = "";
     }
 }
 
