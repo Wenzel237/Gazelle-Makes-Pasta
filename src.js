@@ -132,7 +132,6 @@ function increaseSleepiness() {
         }
         updateSleepBar();
         updateGazelleImage();
-        console.log(burnTimer);
     }
 }
 function increasePastaPreparation() {
